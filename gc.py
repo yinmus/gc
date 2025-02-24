@@ -6,7 +6,7 @@ USERS_API = "https://api.github.com/users/"
 SEARCH_API = "https://api.github.com/search/"
 REPO_API = "https://api.github.com/repos/"
 ORG_API = "https://api.github.com/orgs/"
-TOKEN_FILE = os.path.expanduser("~/.github_token")
+TOKEN_FILE = os.path.expanduser("~/.gc_tokens")
 
 RED = "\033[91m"
 GREEN = "\033[92m"
