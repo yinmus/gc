@@ -32,7 +32,7 @@ chmod +x gc_installer.sh
 
 ```bash
 ./gc_installer.sh
-``
+```
 
 
 
