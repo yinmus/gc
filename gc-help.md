@@ -8,6 +8,9 @@
   - [`re`](https://docs.python.org/3/library/re.html)
   - [`sys`](https://docs.python.org/3/library/sys.html)
   - [`subprocess`](https://docs.python.org/3/library/subprocess.html)
+ 
+
+___
 
 ## Установка
 
@@ -33,6 +36,7 @@ chmod +x gc_installer.sh
 ```bash
 ./gc_installer.sh
 ```
+___
 
 ## Использование:
 
@@ -106,6 +110,6 @@ gc -su username
 ```bash
 gc -so microsoft 
 ```
-
+___
 фууух, наконец-то 
 
