@@ -2,7 +2,7 @@
 
 set -x
 
-INSTALL_DIR="/home/thm/.gc"
+INSTALL_DIR="/home/user/.gc"
 VENV_DIR="$INSTALL_DIR/venv"
 SCRIPT_NAME="gc.py"
 BIN_PATH="/usr/local/bin/gc"
