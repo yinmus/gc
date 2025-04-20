@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+#gc-installer GC_S un
+
+
 echo "Выберите пользователя для установки:"
 
 mapfile -t users < <(ls /home/)
